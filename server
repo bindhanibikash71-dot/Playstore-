@@ -1,0 +1,4 @@
+cd server
+npm init -y
+npm install express mongoose dotenv cors jsonwebtoken bcryptjs multer express-rate-limit
+npm install -D nodemon
